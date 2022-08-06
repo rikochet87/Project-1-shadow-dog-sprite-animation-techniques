@@ -1,10 +1,10 @@
 {
-  "name": "shadow-dog",
+  "name": "project-1-shadow-dog-sprite-animation-techniques",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "dev": "parcel serve ./src/index.html",
-    "build": "parcel build ./src/index.html --dist-dir build --public-url /shadow-dog",
+    "build": "parcel build ./src/index.html --dist-dir build --public-url /project-1-shadow-dog-sprite-animation-techniques",
     "deploy": "gh-pages -d build",
     "build-and-deploy": "npm run build && npm run deploy"
   },
